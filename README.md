@@ -1,5 +1,5 @@
 # 💫 About Me:
-* I’m currently working on **full-stack MERN applications**<br>
+I’m currently working on **full-stack MERN applications**<br>
 I’m looking to collaborate on **open-source and web development projects**<br>
 I’m looking for help with **system design and robotics**<br>
 I’m currently learning **Machine Learning, Neural Networks, and Robotics**<br>
